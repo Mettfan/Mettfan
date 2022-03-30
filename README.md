@@ -7,7 +7,7 @@ Soy un **Programador _Fullstack_** orientado al diseño ***Front-end*** y creaci
 de material visual.
 
 Desde que tengo 12 años me ha interesado el mundo de la programación. Mi primer Lenguaje
-fue **Python** 
+fue **Python**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
 
 ## ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
